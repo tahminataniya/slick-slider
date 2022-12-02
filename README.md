@@ -1,2 +1,2 @@
-# slick-slider
+# slick-slider-plugin
 jq-plugin
