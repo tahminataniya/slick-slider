@@ -1,0 +1,34 @@
+nipro psd:
+html,css,boostrap,js
+
+font-family:----
+
+fontawsam-
+
+color:-----
+black: 
+asah: 
+
+
+padding:---------
+header:
+        xxl/xl/lg           md            sm/col
+                   
+slider:
+                       
+
+feature:
+          
+ 
+
+
+
+font-size:-----
+header:
+     xxl/xl/lg            md             sm/col
+menu  
+
+slider:         
+
+
+feature:
